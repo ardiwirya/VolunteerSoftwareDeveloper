@@ -8,3 +8,4 @@ Jika Anda tertarik untuk menjadi Volunter, silakan lakukan PR(pull-request) pada
 Berikut daftar Volunter yang diterima:
 
 * Ujang Nightmare, [oo.or.id](https://oo.or.id).
+* Ardi Forger, [GitHub](https://github.com/ardiforger).
