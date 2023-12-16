@@ -1,7 +1,7 @@
 # Volunteer Software Developer
 
-Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan aplikasi perangkat lunajDicoding.
-Jika Anda tertarik untuk menjadi Volunter, silakan lakukan PR(pull-request) pada berkas ini ya. Silakan gunakan format berikut:
+Repository ini digunakan sebagai sayembara pencarian volunteer untuk pembuatan aplikasi perangkat lunak Dicoding.
+Jika Anda tertarik untuk menjadi Volunteer, silakan lakukan PR(pull-request) pada berkas ini ya. Silakan gunakan format berikut:
 
 **\* Nama Lengkap, [Nama Portofolio](Alamat Portofolio)**
 
